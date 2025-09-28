@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/BoxingUnboxingWrapper/BoxingUnboxingWrapper.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/BoxingUnboxingWrapper/BoxingUnboxingWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" filepath="$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Repetitiva/Estrutura_Repetitiva.iml" filepath="$PROJECT_DIR$/Estrutura_Repetitiva/Estrutura_Repetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/ExercicioBanco/ExercicioBanco.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/ExercicioBanco/ExercicioBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Vetores/ExerciciosVetores/ExerciciosVetores.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Vetores/ExerciciosVetores/ExerciciosVetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/ForEach/ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Listas/Listas.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Orientacao_Objetos.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Orientacao_Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topicos_Basicos_Java/Topicos_Basicos_Java.iml" filepath="$PROJECT_DIR$/Topicos_Basicos_Java/Topicos_Basicos_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Vetores/Vetores.iml" />
+    </modules>
+  </component>
+</project>
