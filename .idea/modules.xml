@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/BoxingUnboxingWrapper/BoxingUnboxingWrapper.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/BoxingUnboxingWrapper/BoxingUnboxingWrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data_Hora/Data_Hora.iml" filepath="$PROJECT_DIR$/Data_Hora/Data_Hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enumeracao/Enumeracao.iml" filepath="$PROJECT_DIR$/Enumeracao/Enumeracao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" filepath="$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura_Repetitiva/Estrutura_Repetitiva.iml" filepath="$PROJECT_DIR$/Estrutura_Repetitiva/Estrutura_Repetitiva.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" />
