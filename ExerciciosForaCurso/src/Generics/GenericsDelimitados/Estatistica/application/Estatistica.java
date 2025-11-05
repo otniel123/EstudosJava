@@ -1,4 +1,4 @@
-package Generics.GenericsDelimitados.application;
+package Generics.GenericsDelimitados.Estatistica.application;
 
 import java.util.ArrayList;
 import java.util.List;
