@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/GenericsSetMap/GenericsSetMap.iml" filepath="$PROJECT_DIR$/GenericsSetMap/GenericsSetMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/JDBC.iml" filepath="$PROJECT_DIR$/Exceptions/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Listas/Listas.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Listas/Listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Orientacao_Objetos/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Orientacao_Objetos/Matrizes/Matrizes.iml" />
